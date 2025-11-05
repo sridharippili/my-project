@@ -1,0 +1,17 @@
+# .gitignore
+
+# Python virtual environments
+ml-env/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (if large)
+data/raw/
+data/processed/
+
