@@ -1,0 +1,14 @@
+10 Day ML Roadmap
+
+| **Day**    | **Focus**                      | **Goal / Concept**                                                     | **Dataset / Practice**                                            |
+| ---------- | ------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Day 1**  | Python & Jupyter               | Refresh Python basics, variables, loops, functions, pandas, NumPy      | Titanic CSV / simple dataset (`notebooks/01-python-basics.ipynb`) |
+| **Day 2**  | Linear Regression              | Predict numeric values, understand slope/intercept, evaluate with RMSE | Boston Housing dataset (`notebooks/02-linear-regression.ipynb`)   |
+| **Day 3**  | Logistic Regression            | Binary classification, probability outputs, confusion matrix           | Titanic survival prediction                                       |
+| **Day 4**  | Decision Tree                  | Learn tree structure, splitting, overfitting, feature importance       | Iris dataset                                                      |
+| **Day 5**  | Random Forest                  | Ensemble of trees, bagging, improved accuracy                          | Breast Cancer dataset                                             |
+| **Day 6**  | K-Nearest Neighbors (KNN)      | Similarity-based classification, regression, distance metrics          | MNIST digits (small sample)                                       |
+| **Day 7**  | Support Vector Machine (SVM)   | Understand hyperplanes, kernels, margin maximization                   | Iris dataset                                                      |
+| **Day 8**  | K-Means Clustering             | Unsupervised learning, find patterns, cluster analysis                 | Customer segmentation (synthetic or Kaggle dataset)               |
+| **Day 9**  | PCA (Dimensionality Reduction) | Reduce features, visualize high-dimensional data                       | Wine dataset (or any multi-feature dataset)                       |
+| **Day 10** | Neural Networks Intro          | Simple MLP, forward/backward pass, activation functions                | MNIST digits                                                      |

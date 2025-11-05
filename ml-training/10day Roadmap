@@ -1,0 +1,121 @@
+# **10-Day ML Training — Recommended Sources**
+
+### **Day 1 — Python & Jupyter Basics**
+
+* **Concepts**: Python syntax, loops, functions, lists/dicts, basic pandas & numpy
+* **Read/Watch**:
+
+  * [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) (free online book)
+  * [Python for Data Science — freeCodeCamp YouTube](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
+* **Practice**: Titanic CSV, simple filtering, basic stats
+
+---
+
+### **Day 2 — Linear Regression**
+
+* **Concepts**: Predict numeric targets, understand slope/intercept, RMSE
+* **Read/Watch**:
+
+  * [Scikit-learn Linear Regression](https://scikit-learn.org/stable/modules/linear_model.html#linear-regression)
+  * [Linear Regression in Python (YouTube)](https://www.youtube.com/watch?v=J_LnPL3Qg70)
+* **Dataset**: Boston Housing dataset (built-in `sklearn.datasets`)
+
+---
+
+### **Day 3 — Logistic Regression**
+
+* **Concepts**: Binary classification, probability outputs, confusion matrix
+* **Read/Watch**:
+
+  * [Scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+  * [Logistic Regression in Python (YouTube)](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+* **Dataset**: Titanic survival prediction, Heart disease dataset
+
+---
+
+### **Day 4 — Decision Tree**
+
+* **Concepts**: Tree structure, splitting, overfitting, feature importance
+* **Read/Watch**:
+
+  * [Decision Trees — scikit-learn](https://scikit-learn.org/stable/modules/tree.html)
+  * [Decision Trees Explained (YouTube)](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+* **Dataset**: Iris dataset
+
+---
+
+### **Day 5 — Random Forest**
+
+* **Concepts**: Ensemble learning, bagging, improved accuracy, feature importance
+* **Read/Watch**:
+
+  * [Random Forest — scikit-learn](https://scikit-learn.org/stable/modules/ensemble.html#random-forests)
+  * [Random Forests Tutorial (YouTube)](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+* **Dataset**: Breast Cancer dataset (built-in `sklearn.datasets`)
+
+---
+
+### **Day 6 — K-Nearest Neighbors (KNN)**
+
+* **Concepts**: Similarity-based classification/regression, distance metrics
+* **Read/Watch**:
+
+  * [KNN — scikit-learn](https://scikit-learn.org/stable/modules/neighbors.html)
+  * [KNN Algorithm Python Tutorial (YouTube)](https://www.youtube.com/watch?v=HVXime0nQeI)
+* **Dataset**: Small MNIST sample or Iris dataset
+
+---
+
+### **Day 7 — Support Vector Machine (SVM)**
+
+* **Concepts**: Hyperplanes, kernels, margin maximization
+* **Read/Watch**:
+
+  * [SVM — scikit-learn](https://scikit-learn.org/stable/modules/svm.html)
+  * [SVM Intuition (YouTube)](https://www.youtube.com/watch?v=efR1C6CvhmE)
+* **Dataset**: Iris dataset
+
+---
+
+### **Day 8 — K-Means Clustering**
+
+* **Concepts**: Unsupervised learning, clustering, centroids, inertia
+* **Read/Watch**:
+
+  * [K-Means — scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+  * [K-Means Clustering in Python (YouTube)](https://www.youtube.com/watch?v=4b5d3muPQmA)
+* **Dataset**: Customer segmentation or synthetic dataset (`make_blobs` from sklearn)
+
+---
+
+### **Day 9 — PCA (Dimensionality Reduction)**
+
+* **Concepts**: Reduce features, visualize high-dimensional data, variance explained
+* **Read/Watch**:
+
+  * [PCA — scikit-learn](https://scikit-learn.org/stable/modules/decomposition.html#pca)
+  * [PCA Explained (YouTube)](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+* **Dataset**: Wine dataset (built-in `sklearn.datasets`)
+
+---
+
+### **Day 10 — Neural Networks Intro**
+
+* **Concepts**: MLP (Multi-Layer Perceptron), forward/backward pass, activation functions
+* **Read/Watch**:
+
+  * [MLP — scikit-learn](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
+  * [Simple Neural Network Python Tutorial (YouTube)](https://www.youtube.com/watch?v=aircAruvnKk)
+  * Optional: TensorFlow/Keras intro [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
+* **Dataset**: MNIST digits (small subset)
+
+---
+
+### **Additional Resources**
+
+* **Kaggle for practice datasets**: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
+* **Hands-on ML book (optional, highly recommended)**: *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien Géron
+* **Jupyter + Git workflow**: [GitHub Docs — Git Basics](https://docs.github.com/en/get-started/quickstart)
+
+---
